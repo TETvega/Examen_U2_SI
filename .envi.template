@@ -1,0 +1,7 @@
+## El .env no sera subido
+# URL a la que nos estaremos conectando 
+EXPO_PUBLIC_<API>_URL = <link URL>
+
+# Obtener key de: 
+EXPO_PUBLIC_<API>_API_KEY = <Token> 
+
